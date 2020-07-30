@@ -1,5 +1,7 @@
 # SnakeAI
-Ashutosh Senapati
+Contibutors : 
+greeviau
+ashutoshsenapati
 ## Download and Run
 To run the program you will need [Processing](https://processing.org/)
 
